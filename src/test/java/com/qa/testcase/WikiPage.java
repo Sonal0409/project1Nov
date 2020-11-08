@@ -18,7 +18,7 @@ public class WikiPage {
 		// declaring an object called as driver
 		// here we are staring selenium webdriver and giving instruction to start chrome broswer
 	
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\vishal mittal\\Downloads\\chromedriver_win32 (15)\\chromedriver.exe");
+		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\vishal mittal\\Downloads\\chromedriver_win32 (15)\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		// call method in java ==> objectname.methodname
 		// opening URL on the chromebrowser
